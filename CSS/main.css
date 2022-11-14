@@ -42,6 +42,7 @@ aside.open{
 }
 .font{
     font-family: 'Roboto', sans-serif;
+    color: black;
 }
 #top {
     background:#FAAC96;
