@@ -1,4 +1,5 @@
-const path = require('node:path')
+const path = module.require('node:path')
+const fs = module.require('node:fs')
 
 const houseName = document.getElementById('inputNameHouse')
 const priceData = document.getElementById('inputPriceHouse')
