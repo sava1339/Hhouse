@@ -1,0 +1,15 @@
+{
+  "name": "hhouse",
+  "version": "1.0.0",
+  "description": "Hhouse this market for buy and sale home",
+  "main": "JS/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "node.js"
+  ],
+  "author": "Ysavely",
+  "license": "ISC"
+}
