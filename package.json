@@ -4,12 +4,17 @@
   "description": "Hhouse this market for buy and sale home",
   "main": "JS/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "node",
     "node.js"
   ],
   "author": "Ysavely",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "node-static": "^0.7.11"
+  }
 }
